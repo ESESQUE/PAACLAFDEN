@@ -1,0 +1,5 @@
+name: my-environment
+channels:
+  - defaults
+dependencies:
+  - package-name=version
